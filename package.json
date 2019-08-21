@@ -1,21 +1,21 @@
 {
   "name": "devc-lagos-community-project",
   "version": "1.0.0",
-  "description": "",
+  "description": "A community project by DevC-Lagos-Community",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Princesso/DevC-Lagos-Community-Project.git"
+    "url": "git+https://github.com/iAMKINGharry/DevC-Lagos-Community-Project.git"
   },
-  "author": "",
+  "author": "iAMKINGharry_",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Princesso/DevC-Lagos-Community-Project/issues"
+    "url": "https://github.com/iAMKINGharry/DevC-Lagos-Community-Project/issues"
   },
-  "homepage": "https://github.com/Princesso/DevC-Lagos-Community-Project#readme",
+  "homepage": "https://github.com/iAMKINGharry/DevC-Lagos-Community-Project#readme",
   "devDependencies": {
     "@babel/cli": "^7.5.5",
     "@babel/core": "^7.5.5",
